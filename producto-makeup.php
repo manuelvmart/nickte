@@ -56,14 +56,7 @@
       <br>
       <div class="parallax" data-parallax="scroll" data-image-src="img/MAKEUP.png" data-z-index="-1">
 
-<div class="textobrand">
-  <h1 class="heading">
-
-    <span class="heading-principal">NICKTE precio calidad </span>
-    <span class="heading-secundario">No vendemos Replicas</span>
-    <button class="guardare"><a href="#produxd">Ver Novedades</a></button>
-  </h1>
-</div>
+x
 
 
 </div>
